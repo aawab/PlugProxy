@@ -1,6 +1,4 @@
 Aawab Mahmood
-113472709
-CSE508 HW3
 Plugboard Proxy
 
 No external libraries used, though might have to go download "golang.org/x/crypto/pbkdf2"
